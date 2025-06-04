@@ -159,5 +159,22 @@ footer{
     }
 }
 
-    
-    
+    /* Estilização game */
+
+h1
+{
+    font font-style: ;
+    font-size: 40px;
+    color: crimson;
+    text-align: center;
+}
+
+p
+{
+    background-image: linear-gradient(to right, black, yellow);
+    font-size: 30px;
+    text-align: center;
+    text-transform: uppercase;
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+}
